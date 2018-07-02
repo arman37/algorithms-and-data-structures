@@ -7,7 +7,7 @@
 ### Pros:
 * Much faster(**_`O(log n)`_**) comparing to linear search(**_`O(n)`_**) algorithm.
 * Well known and often implemented for us as a library routine.
-* For a million elements, linear search will take an 500,000 comparisons, whereas binary search will take 20.
+* For a million elements, linear search will take 1,000,000 comparisons, whereas binary search will take only 20.
 
 ### Cons:
 * A little complicated than linear search, and is overkill for very small numbers of elements.
