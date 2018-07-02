@@ -1,5 +1,9 @@
 # Jump Search
 
+### Complexity:
+ - Time complexity - **`O(√n)`**
+ - Space complexity - **`O(1)`**
+
 ### Pros:
 * In case of a very large list the direct jump to the middle can be a bad idea because we should make a large step back if the searched value is placed at the beginning of the list. But Jump search requires us to traverse back only once(Binary Search may require up to **_`O(Log n)`_**).
 * In a systems where jumping back is costly, we can use Jump Search.
