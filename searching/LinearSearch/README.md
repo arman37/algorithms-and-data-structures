@@ -1,5 +1,9 @@
 # Linear Search
 
+### Complexity:
+ - Time complexity - **`O(n)`**
+ - Space complexity - **`O(1)`**
+
 ### Pros:
 * Efficient when data is less and unordered.
 * Simple, very easy to understand and implement.
