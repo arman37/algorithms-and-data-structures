@@ -1,7 +1,11 @@
 # Binary Search
 
+### Complexity:
+ - Time complexity - **`O(log n)`**
+ - Space complexity - **`O(1)`**
+
 ### Pros:
-* Much faster(**_`log2(n)`_**) comparing to linear search(**_`O(n)`_**) algorithm.
+* Much faster(**_`O(log n)`_**) comparing to linear search(**_`O(n)`_**) algorithm.
 * Well known and often implemented for us as a library routine.
 * For a million elements, linear search will take an 500,000 comparisons, whereas binary search will take 20.
 
