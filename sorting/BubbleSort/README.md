@@ -7,3 +7,9 @@
 ### Complexity:
  - Time complexity - **`O(n^2)`**
  - Space complexity - **`O(1)`**
+
+### Pros:
+* Can detect whether the input list is already sorted or not.
+
+### Cons:
+* Always runs **_`O(n^2)`_** time even if the array is already sorted.
