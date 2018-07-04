@@ -14,4 +14,4 @@
 ### Cons:
 * Always runs **_`O(n^2)`_** time even if the array is already sorted.
 
-[For visual details look at algo visualizer](http://algo-visualizer.jasonpark.me/#path=sorting/bubble/basic)
+:link:[For visual details look at algo visualizer](http://algo-visualizer.jasonpark.me/#path=sorting/bubble/basic)
