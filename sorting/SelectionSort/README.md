@@ -15,3 +15,5 @@
 
 ### Cons:
 * Doesn’t scale well: **_`O(n^2)`_**
+
+[For visual details look at algo visualizer](http://algo-visualizer.jasonpark.me/#path=sorting/selection/basic)
