@@ -19,3 +19,5 @@
  * Unstable, heavily decreases in speed down to **`O(n2)`** in the case of unsuccessful pivot selections.
  * Lame implementation of the algorithm may result in stack overflow error, since it may require **`O(n)`** embedded recursive calls.
  * Nearly as bad if the dataset is not very diverse as ell (eg. All 1s and 2s) as it will lead to very unbalanced partitions.
+
+ :link:[For visual details look at algo visualizer](http://algo-visualizer.jasonpark.me/#path=sorting/quick/basic)
