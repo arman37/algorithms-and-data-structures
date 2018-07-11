@@ -1,22 +1,17 @@
+import java.util.Random;
+
 public class SimpleArrayStackTest {
     public static void main(String args[]) {
+        Random random = new Random();
         SimpleArrayStack myStack = new SimpleArrayStack(10);
 
         if (myStack.isEmpty()) {
             System.out.println("Stack is empty");
         }
 
-        myStack
-          .push(5)
-          .push(4)
-          .push(7)
-          .push(17)
-          .push(53)
-          .push(52)
-          .push(35)
-          .push(9)
-          .push(89)
-          .push(50);
+        for (int i = 0; i < 10; i++) {
+            myStack.push(random.nextInt((100 - 1) + 1) + 1);
+        }
 
         if (myStack.isFull()) {
             System.out.println("Stack is full");
