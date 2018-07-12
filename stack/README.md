@@ -19,3 +19,10 @@
 * Browser history(back buttons)
 * Implementing function calls
 * Undo sequence in a text editor
+
+## Simple Array implementation
+### Complexity:
+ - Space complexity(for n push operations) - **`O(n)`**
+ - Time complexity of **_Push_** operation - **`O(1)`**
+ - Time complexity of **_Pop_** operation - **`O(1)`**
+ - Time complexity of **_Size_** operation - **`O(1)`**
