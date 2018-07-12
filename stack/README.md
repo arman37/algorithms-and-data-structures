@@ -11,3 +11,11 @@
 &nbsp; :diamond_shape_with_a_dot_inside: Underflow <br />
 &nbsp; :diamond_shape_with_a_dot_inside:  <br />
 ]
+
+### Applications
+* Reversing a word
+* Parsing
+* Expression Conversion(Infix to Postfix, Postfix to Prefix etc)
+* Browser history(back buttons)
+* Implementing function calls
+* Undo sequence in a text editor
