@@ -26,6 +26,7 @@
  - Time complexity of **_Push_** operation - **`O(1)`**
  - Time complexity of **_Pop_** operation - **`O(1)`**
  - Time complexity of **_Size_** operation - **`O(1)`**
+
 ### limitations:
  - Stack size must be defined when creating the stack
  - Stack size can't be changed after defined once
@@ -36,3 +37,6 @@
  - Time complexity of **_Push_** operation(Average) - **`O(1)`**
  - Time complexity of **_Pop_** operation - **`O(1)`**
  - Time complexity of **_Size_** operation - **`O(1)`**
+
+### limitations:
+ - Too many doubling can cause memory overflow exception
