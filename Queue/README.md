@@ -16,3 +16,7 @@
  - Time complexity of **_enQueue_** operation - **`O(1)`**
  - Time complexity of **_deQueue_** operation - **`O(1)`**
  - Time complexity of **_Size_** operation - **`O(1)`**
+
+### Limitations
+ - Queue size must be defined when creating the Queue
+ - Queue size can't be changed after defining once
